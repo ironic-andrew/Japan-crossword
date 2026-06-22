@@ -1,0 +1,15 @@
+-rootPath
+D:/Programs/Qt/QtWork/RR
+-cmake-output
+-output-file
+D:/Programs/Qt/QtWork/RR/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.qt/qml_imports/appRR_conf.cmake
+-importPath
+D:/Programs/Qt/QtWork/RR/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug
+-importPath
+D:/Programs/Qt/QtWork/RR/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/RR
+-importPath
+D:/Programs/Qt/6.11.0/mingw_64/qml
+-qrcFiles
+D:/Programs/Qt/QtWork/RR/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.qt/rcc/qmake_RR.qrc
+D:/Programs/Qt/QtWork/RR/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.qt/rcc/appRR_raw_qml_0.qrc
+D:/Programs/Qt/QtWork/RR/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.qt/rcc/appRR_raw_res_0.qrc

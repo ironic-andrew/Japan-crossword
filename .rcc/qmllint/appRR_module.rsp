@@ -1,0 +1,16 @@
+-I
+D:/Programs/Qt/QtWork/RR/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug
+-I
+D:/Programs/Qt/QtWork/RR/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/RR
+-I
+D:/Programs/Qt/QtWork/RR/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug
+-I
+D:/Programs/Qt/6.11.0/mingw_64/qml
+--resource
+D:/Programs/Qt/QtWork/RR/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.qt/rcc/qmake_RR.qrc
+--resource
+D:/Programs/Qt/QtWork/RR/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.qt/rcc/appRR_raw_qml_0.qrc
+--resource
+D:/Programs/Qt/QtWork/RR/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.qt/rcc/appRR_raw_res_0.qrc
+--module
+RR

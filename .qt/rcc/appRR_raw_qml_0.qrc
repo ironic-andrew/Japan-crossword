@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/qt/qml/RR/">
+    <file alias="Main.qml">D:/Programs/Qt/QtWork/RR/Main.qml</file>
+    <file alias="page1.qml">D:/Programs/Qt/QtWork/RR/page1.qml</file>
+    <file alias="Page2.qml">D:/Programs/Qt/QtWork/RR/Page2.qml</file>
+  </qresource>
+</RCC>
+

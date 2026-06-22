@@ -1,0 +1,7 @@
+module RR
+typeinfo appRR.qmltypes
+prefer :/qt/qml/RR/
+Main 1.0 Main.qml
+Page2 1.0 Page2.qml
+depends QtQuick
+

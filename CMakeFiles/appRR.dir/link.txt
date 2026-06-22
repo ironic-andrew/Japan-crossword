@@ -1,0 +1,3 @@
+D:\Programs\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\appRR.dir/objects.a
+D:\Programs\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\appRR.dir/objects.a @CMakeFiles\appRR.dir\objects1.rsp
+D:\Programs\Qt\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\appRR.dir/objects.a -Wl,--no-whole-archive -o appRR.exe -Wl,--out-implib,libappRR.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\appRR.dir\linkLibs.rsp

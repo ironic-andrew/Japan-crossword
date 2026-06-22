@@ -1,0 +1,3 @@
+set(__QT_DEPLOY_TARGET_appRR_FILE D:/Programs/Qt/QtWork/RR/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/appRR.exe)
+set(__QT_DEPLOY_TARGET_appRR_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_appRR_RUNTIME_DLLS D:/Programs/Qt/6.11.0/mingw_64/bin/Qt6QuickControls2.dll;D:/Programs/Qt/6.11.0/mingw_64/bin/Qt6QuickTemplates2.dll;D:/Programs/Qt/6.11.0/mingw_64/bin/Qt6Quick.dll;D:/Programs/Qt/6.11.0/mingw_64/bin/Qt6OpenGL.dll;D:/Programs/Qt/6.11.0/mingw_64/bin/Qt6QmlMeta.dll;D:/Programs/Qt/6.11.0/mingw_64/bin/Qt6QmlWorkerScript.dll;D:/Programs/Qt/6.11.0/mingw_64/bin/Qt6Gui.dll;D:/Programs/Qt/6.11.0/mingw_64/bin/Qt6QmlModels.dll;D:/Programs/Qt/6.11.0/mingw_64/bin/Qt6Qml.dll;D:/Programs/Qt/6.11.0/mingw_64/bin/Qt6Network.dll;D:/Programs/Qt/6.11.0/mingw_64/bin/Qt6Core.dll)
